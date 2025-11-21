@@ -1,5 +1,7 @@
 📘 ML Explorer Pro
 
+Demo: https://drive.google.com/drive/folders/18jvtq16s4iKOZFSOzTqLNCsv7sBzIvz0
+
 
 ML Explorer Pro is an interactive Streamlit-based web application designed to help users explore machine learning concepts visually.
 It allows you to upload datasets, preprocess features, apply feature selection, train multiple ML models, and compare their performance—all within an intuitive UI.
